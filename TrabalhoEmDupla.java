@@ -350,5 +350,7 @@ public static void compraServico(Integer indice){
 		
 		
 	}
+//nova edição nesse codigo
 
+	
 }
